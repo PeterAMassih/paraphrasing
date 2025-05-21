@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: The quick brown fox jumps over the lazy dog."
+    },
+    {
+      "role": "assistant",
+      "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and sentence structure.\n</think>\n\nThe swift brown fox leaps across the indolent canine."
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "academic": [
+    {
+      "id": "aca_3",
+      "source": "academic_source",
+      "text": "We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.Recurrent neural networks, long short-term memory [13] and gated recurrent [7] neural networks in particular, have been firmly established as state of the art approaches in sequence modeling and transduction problems such as language modeling and machine translation [35, 2, 5].",
+      "paraphrases": [
+        "We demonstrate that the Transformer adapts effectively to diverse tasks by applying it to English constituency parsing with both abundant and scarce training data, while recurrent neural networks\u2014particularly long short-term memory [13] and gated recurrent [7] architectures\u2014remain the state-of-the-art for sequence modeling and transduction problems such as language modeling and machine translation [35, 2, 5].",
+        "By deploying the Transformer on English constituency parsing under both large-scale and limited-data settings, we show its strong generalization to new tasks, and note that recurrent neural networks, especially long short-term memory [13] and gated recurrent [7] networks, have become the benchmark approaches for sequence modeling and transduction challenges like language modeling and machine translation [35, 2, 5].",
+        "Applying the Transformer to English constituency parsing with both extensive and minimal training data, we confirm its robust generalizability across tasks; recurrent neural networks\u2014most notably long short-term memory [13] and gated recurrent [7] models\u2014have been firmly established as leading methods for sequence modeling and transduction applications such as language modeling and machine translation [35, 2, 5]."
+      ]
+    },
+    {
+      "id": "aca_26",
+      "source": "academic_source",
+      "text": "Knowledge: (1) On educational benchmarks such as MMLU, MMLU-Pro, and GPQA, DeepSeek-V3 outperforms all other open-source models, achieving 88.5 on MMLU, 75.9 on MMLU-Pro, and 59.1 on GPQA.",
+      "paraphrases": [
+        "On educational benchmarks\u2014MMLU, MMLU-Pro, and GPQA\u2014DeepSeek-V3 outperforms all other open-source models, achieving 88.5 on MMLU, 75.9 on MMLU-Pro, and 59.1 on GPQA.",
+        "DeepSeek-V3 surpasses every other open-source model on educational benchmarks, scoring 88.5 on MMLU, 75.9 on MMLU-Pro, and 59.1 on GPQA.",
+        "Regarding educational benchmarks such as MMLU (88.5), MMLU-Pro (75.9), and GPQA (59.1), DeepSeek-V3 leads all other open-source models."
+      ]
+    },
+    {
+      "id": "aca_13",
+      "source": "academic_source",
+      "text": "Self-attention has been used successfully in a variety of tasks including reading comprehension, abstractive summarization, textual entailment and learning task-independent sentence representations [4, 27, 28, 22].",
+      "paraphrases": [
+        "Self-attention has been effectively applied to various tasks such as reading comprehension, abstractive summarization, textual entailment, and learning task-independent sentence representations.",
+        "Numerous tasks\u2014including reading comprehension, abstractive summarization, textual entailment, and acquiring task-agnostic sentence representations\u2014have benefited from the successful use of self-attention.",
+        "The successful application of self-attention spans a range of tasks, including reading comprehension, abstractive summarization, textual entailment, and the development of task-independent sentence representations."
+      ]
+    },
+    {
+      "id": "aca_49",
+      "source": "academic_source",
+      "text": "During the pre-training stage, training DeepSeek-V3 on each trillion tokens requires only 180K H800 GPU hours, i.e., 3.7 days on our cluster with 2048 H800 GPUs.",
+      "paraphrases": [
+        "In the pre-training phase, processing each trillion tokens with DeepSeek-V3 takes just 180K H800 GPU hours, or about 3.7 days on our cluster of 2048 H800 GPUs.",
+        "For pre-training DeepSeek-V3, handling a trillion tokens requires only 180,000 H800 GPU hours\u2014equivalent to 3.7 days on our 2048 H800 GPU setup.",
+        "Pre-training DeepSeek-V3 on a trillion-token dataset consumes merely 180K H800 GPU hours, which corresponds to roughly 3.7 days using our 2048-GPU H800 cluster."
+      ]
+    },
+    {
+      "id": "aca_38",
+      "source": "academic_source",
+      "text": "Low-precision training has emerged as a promising solution for efficient training (Dettmers et al., 2022; Kalamkar et al., 2019; Narang et al., 2017; Peng et al., 2023b), its evolution being closely tied to advancements in hardware capabilities (Luo et al., 2024; Micikevicius et al., 2022; Rouhani et al., 2023a).",
+      "paraphrases": [
+        "Low-precision training has become a promising approach for efficient model training (Dettmers et al., 2022; Kalamkar et al., 2019; Narang et al., 2017; Peng et al., 2023b), with its development deeply intertwined with hardware improvements (Luo et al., 2024; Micikevicius et al., 2022; Rouhani et al., 2023a).",
+        "Efficient model training has increasingly relied on low-precision techniques as a promising solution (Dettmers et al., 2022; Kalamkar et al., 2019; Narang et al., 2017; Peng et al., 2023b), a trend driven by parallel advances in hardware capabilities (Luo et al., 2024; Micikevicius et al., 2022; Rouhani et al., 2023a).",
+        "Driven by rapid hardware advancements (Luo et al., 2024; Micikevicius et al., 2022; Rouhani et al., 2023a), low-precision training has emerged as an effective strategy for boosting training efficiency (Dettmers et al., 2022; Kalamkar et al., 2019; Narang et al., 2017; Peng et al., 2023b)."
+      ]
+    }
+  ],
+  "literary": [
+    {
+      "id": "lit_71",
+      "source": "literary_source",
+      "text": "I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.\u201d \u201cI am not now to learn,\u201d replied Mr. Collins, with a formal wave of the hand, \u201cthat it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour; and that sometimes the refusal is repeated a second or even a third time.",
+      "paraphrases": [
+        "\u201cI deeply appreciate the honour of your proposal, but I must inevitably decline,\u201d she replied. \u201cI well know,\u201d Mr. Collins answered with a formal wave, \u201cthat young ladies often first refuse the man they secretly intend to accept, sometimes even a second or third time.\u201d",
+        "\u201cI am truly grateful for the courtesy of your offer, yet I cannot do otherwise than refuse,\u201d she said. \u201cI am not unaware,\u201d Mr. Collins responded with a ceremonious gesture, \u201cthat it is customary for ladies to reject the suitor they really mean to accept on the first, second, or even third proposal.\u201d",
+        "\u201cI am sincerely honoured by your proposal, but I have no choice but to decline,\u201d she answered. \u201cI have learned,\u201d Mr. Collins replied with a formal wave of the hand, \u201cthat it is usual for young ladies to refuse the addresses of the man they secretly intend to accept, sometimes not just once but twice or thrice.\u201d"
+      ]
+    },
+    {
+      "id": "lit_65",
+      "source": "literary_source",
+      "text": "No one who has ever seen you together can doubt his affection; Miss Bingley, I am sure, cannot: she is not such a simpleton.",
+      "paraphrases": [
+        "Anyone who has witnessed you together cannot question his affection; I am certain Miss Bingley recognizes it too\u2014she is no simpleton.",
+        "All who have seen you side by side are convinced of his devotion; I\u2019m sure Miss Bingley understands as well, for she\u2019s no fool.",
+        "No one who has observed the two of you in each other\u2019s company can doubt his feelings; Miss Bingley, I\u2019m sure, is too perceptive to be unaware."
+      ]
+    },
+    {
+      "id": "lit_25",
+      "source": "literary_source",
+      "text": "Their visit did not continue long after the question and answer above mentioned; and while Mr. Darcy was attending them to their carriage, Miss Bingley was venting her feelings in criticisms on Elizabeth\u2019s person, behaviour, and dress.",
+      "paraphrases": [
+        "Their visit didn't last long after the question and answer mentioned above, and while Mr. Darcy escorted them to their carriage, Miss Bingley vented her feelings by criticizing Elizabeth\u2019s appearance, behaviour, and attire.",
+        "They departed shortly after the above question and answer; as Mr. Darcy attended them to their carriage, Miss Bingley expressed her disapproval of Elizabeth\u2019s person, conduct, and dress.",
+        "Their stay concluded not long after that exchange, and in the moments Mr. Darcy was seeing them off to their carriage, Miss Bingley indulged in harsh judgments of Elizabeth\u2019s looks, manners, and dress."
+      ]
+    },
+    {
+      "id": "lit_8",
+      "source": "literary_source",
+      "text": "But, my dearest Jane, you cannot seriously imagine that, because Miss Bingley tells you her brother greatly admires Miss Darcy, he is in the smallest degree less sensible of _your_ merit than when he took leave of you on Tuesday; or that it will be in her power to persuade him that, instead of being in love with you, he is very much in love with her friend.\u201d \u201cIf we thought alike of Miss Bingley,\u201d replied Jane, \u201cyour representation of all this might make me quite easy.",
+      "paraphrases": [
+        "My beloved Jane, you surely don\u2019t really believe that because Miss Bingley claims her brother admires Miss Darcy, he is in any degree less aware of your worth than when he bade you farewell on Tuesday, or that she could convince him he is in love with her friend instead of you.\u201d Jane replied, \u201cIf our regard for Miss Bingley were the same, your portrayal would set my mind entirely at ease.",
+        "My dearest Jane, you cannot seriously imagine that Miss Bingley\u2019s declaration of her brother\u2019s admiration for Miss Darcy makes him any less appreciative of your merits since Tuesday\u2019s parting, nor that she can persuade him he\u2019s infatuated with her friend and not you.\u201d Jane answered, \u201cHad we the same opinion of Miss Bingley, your description would leave me perfectly tranquil.",
+        "My darling Jane, you mustn\u2019t truly suppose that because Miss Bingley asserts her brother holds Miss Darcy in high esteem, he values you any the less from when he took his leave on Tuesday, or that she could persuade him he\u2019s enamored with her friend rather than you.\u201d Jane responded, \u201cIf we thought of Miss Bingley alike, your depiction would completely reassure me."
+      ]
+    },
+    {
+      "id": "lit_9",
+      "source": "literary_source",
+      "text": "You will not think of quitting it in a hurry, I hope, though you have but a short lease.\u201d \u201cWhatever I do is done in a hurry,\u201d replied he; \u201cand therefore if I should resolve to quit Netherfield, I should probably be off in five minutes.",
+      "paraphrases": [
+        "\"I hope you won\u2019t feel the need to depart so swiftly, despite your limited lease.\" He replied, \"I rush through everything, and if I decided to leave Netherfield, I\u2019d likely be gone in five minutes.\"",
+        "\"I trust you have no plans to quit in such haste, even though your stay is brief.\" He said, \"Everything I undertake is done hurriedly, so if I chose to abandon Netherfield, I\u2019d be off within five minutes.\"",
+        "\"You surely won\u2019t choose to leave in a hurry, given your short term here.\" He answered, \"I do all my tasks in haste, and if I resolved to give up Netherfield, I\u2019d probably be gone in five minutes flat.\""
+      ]
+    },
+    {
+      "id": "lit_125",
+      "source": "literary_source",
+      "text": "He had not a temper to bear the sort of competition in which we stood--the sort of preference which was often given me.\u201d \u201cI had not thought Mr. Darcy so bad as this--though I have never liked him, I had not thought so very ill of him--I had supposed him to be despising his fellow-creatures in general, but did not suspect him of descending to such malicious revenge, such injustice, such inhumanity as this!\u201d After a few minutes\u2019 reflection, however, she continued, \u201cI _do_ remember his boasting one day, at Netherfield, of the implacability of his resentments, of his having an unforgiving temper.",
+      "paraphrases": [
+        "He lacked the disposition to endure the kind of rivalry we faced or the kind of favour so often shown to me, and although I had never cared for Mr. Darcy, I never believed him capable of such vindictive cruelty, injustice, and inhumanity\u2014only that he generally scorned his fellow creatures\u2014until I recalled his proud boast at Netherfield about the implacability of his resentments and his unforgiving temper.",
+        "She realized he wasn\u2019t cut out for the competition in which we stood or the preference I frequently received, and despite my dislike of Mr. Darcy, I had never thought him capable of malicious revenge and gross injustice\u2014merely of general disdain\u2014until I remembered his Netherfield brag about nursing grudges without forgiveness.",
+        "It struck her that he simply did not possess the temperament to bear the sort of rivalry we endured or the preference often granted to me, and though I had always disliked Mr. Darcy, I had never imagined him capable of such inhuman malice and injustice\u2014only a general contempt for others\u2014until recalling his boast at Netherfield of his unforgiving resentments."
+      ]
+    },
+    {
+      "id": "lit_24",
+      "source": "literary_source",
+      "text": "He has many friends, and he is at a time of life when friends and engagements are continually increasing.\u201d \u201cIf he means to be but little at Netherfield, it would be better for the neighbourhood that he should give up the place entirely, for then we might possibly get a settled family there.",
+      "paraphrases": [
+        "He enjoys a large circle of friends and is at an age when social ties and obligations continually multiply; if he means to spend only a short time at Netherfield, it would be better for the neighbourhood if he gave up the estate entirely, since then we might have a settled family there.",
+        "He has countless acquaintances and finds himself at a stage of life where invitations and friendships steadily increase; should he only rarely occupy Netherfield, it would benefit the neighbourhood for him to relinquish the property altogether so that we might secure a permanent household there.",
+        "With a wide network of friends and being at a point in life when engagements and relationships keep growing, if he intends to be scarcely at Netherfield, it would be preferable for the neighbourhood that he abandon the place completely, thereby offering us the chance to welcome a settled family."
+      ]
+    },
+    {
+      "id": "lit_29",
+      "source": "literary_source",
+      "text": "But Mr. Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on in any of those pleasures which too often console the unfortunate for their folly or their vice.",
+      "paraphrases": [
+        "However, Mr. Bennet was not inclined to seek solace in any of the pleasures that often soothe the unfortunate for their folly or vice, despite the disappointment his own imprudence had caused.",
+        "Mr. Bennet, however, had no disposition to find consolation in the very diversions that frequently comfort the unfortunate for their mistakes or vices, even though his own recklessness had brought him disappointment.",
+        "Yet Mr. Bennet showed no inclination to turn to the indulgences that commonly relieve the unfortunate for their folly or wrongdoing when faced with the very disappointment his own imprudence had produced."
+      ]
+    },
+    {
+      "id": "lit_39",
+      "source": "literary_source",
+      "text": "It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who was actually staying in his Colonel\u2019s family, that I am strongly inclined to hope the best.",
+      "paraphrases": [
+        "I consider it highly improbable that a young man would conceive such intentions toward a girl who is neither unprotected nor friendless and who is in fact residing with his Colonel\u2019s family; therefore, I am inclined to remain optimistic.",
+        "It strikes me as exceedingly unlikely that any young man would set his sights on a girl who is far from defenseless or alone and who was actually a guest in his Colonel\u2019s household, so I am strongly inclined to expect the best.",
+        "I cannot imagine a young man harboring such designs against a girl who is not without protection or companionship, especially as she was staying with his Colonel\u2019s family, which makes me all the more inclined to hope for a favorable outcome."
+      ]
+    },
+    {
+      "id": "lit_68",
+      "source": "literary_source",
+      "text": "I was on my way to get roaring drunk from sheer embarrassment when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.",
+      "paraphrases": [
+        "Just as I headed off to drown my humiliation in drink, Jordan Baker emerged from the house and paused at the top of the marble steps, leaning slightly back as she surveyed the garden with disdainful curiosity.",
+        "I was about to seek oblivion through furious drinking to soothe my mortification when Jordan Baker appeared at the doorway, perching at the summit of the marble stairs, reclining marginally and gazing upon the garden with a scornful air.",
+        "Embarrassment drove me toward rampant intoxication just as Jordan Baker stepped outside, positioning herself atop the marble staircase, leaning back a touch and regarding the garden below with disdainful intrigue."
+      ]
+    },
+    {
+      "id": "lit_74",
+      "source": "literary_source",
+      "text": "I was so vexed to see him stand up with her; but, however, he did not admire her at all; indeed, nobody can, you know; and he seemed quite struck with Jane as she was going down the dance.",
+      "paraphrases": [
+        "I was greatly displeased to observe him standing up with her; nevertheless, he had no admiration for her in the least; indeed, nobody possibly could; and he seemed utterly captivated by Jane as she went down the dance.",
+        "My vexation at seeing him partner with her was profound; however, he found nothing at all to admire in her; truly, it would be impossible; and he appeared quite entranced by Jane as she descended the dance.",
+        "I felt such annoyance when he rose with her; yet he admired her not one bit; no one ever could, for that matter; and he looked completely taken with Jane while she was going down the dance."
+      ]
+    },
+    {
+      "id": "lit_83",
+      "source": "literary_source",
+      "text": "The gentleman experienced some change of feeling; he drew back his chair, took a newspaper from the table, and, glancing over it, said, in a colder voice,-- \u201cAre you pleased with Kent?\u201d A short dialogue on the subject of the country ensued, on either side calm and concise--and soon put an end to by the entrance of Charlotte and her sister, just returned from their walk.",
+      "paraphrases": [
+        "Noticing a shift in his disposition, the gentleman pushed his chair away, lifted a newspaper from the table, and after a cursory glance, asked in a more reserved tone, \u201cAre you satisfied with Kent?\u201d A brief, composed conversation about the county ensued, which was soon interrupted by the appearance of Charlotte and her sister, freshly returned from their walk.",
+        "His feelings having changed, he drew his chair back, picked up a newspaper from the table, and, casting a swift look at it, spoke in a colder voice: \u201cAre you pleased with Kent?\u201d A short, calm, and concise discussion on the region followed, only to be cut short when Charlotte and her sister reentered after their walk.",
+        "Experiencing a sudden chill in his mood, the gentleman slid his chair back, grabbed a newspaper off the table and, skimming the pages, uttered in a cooler tone, \u201cAre you content with Kent?\u201d An equally calm and succinct dialogue about the county followed, but was promptly ended by Charlotte and her sister\u2019s return from their stroll."
+      ]
+    },
+    {
+      "id": "lit_7",
+      "source": "literary_source",
+      "text": "Let the other young ladies have time to exhibit.\u201d Mary, though pretending not to hear, was somewhat disconcerted; and Elizabeth, sorry for her, and sorry for her father\u2019s speech, was afraid her anxiety had done no good.",
+      "paraphrases": [
+        "\u201cAllow the other young ladies a chance to display their accomplishments,\u201d he observed, and Mary, though pretending not to hear, felt a flicker of discomfort; Elizabeth, sympathizing with her and troubled by her father\u2019s words, feared her own anxiety had been in vain.",
+        "\u201cGive the other young ladies some time to present themselves,\u201d he said, and Mary, acting oblivious, was nevertheless unsettled; Elizabeth, pitying her and mortified by her father\u2019s remark, worried that her concern had yielded nothing.",
+        "\u201cLet the remaining young ladies show their merits,\u201d he declared, and Mary, feigning deafness, experienced a moment of unease; Elizabeth, full of compassion for her and regretful of her father\u2019s bluntness, was afraid her anxiousness had been pointless."
+      ]
+    },
+    {
+      "id": "lit_32",
+      "source": "literary_source",
+      "text": "\u201cWhy\u2019s that?\u201d \u201cDaisy\u2019s leaving you.\u201d \u201cNonsense.\u201d \u201cI am, though,\u201d she said with a visible effort.",
+      "paraphrases": [
+        "\u201cHow come?\u201d \u201cDaisy\u2019s leaving you.\u201d \u201cThat\u2019s ridiculous.\u201d \u201cI really am,\u201d she said, forcing herself to speak.",
+        "\u201cWhat makes you think so?\u201d \u201cDaisy\u2019s walking away from you.\u201d \u201cYou must be joking.\u201d \u201cI\u2019m serious,\u201d she said, struggling to get the words out.",
+        "\u201cWhy do you say that?\u201d \u201cDaisy\u2019s breaking up with you.\u201d \u201cPreposterous.\u201d \u201cYet here I am,\u201d she said with a visible effort."
+      ]
+    }
+  ],
+  "article": [
+    {
+      "id": "art_25",
+      "source": "article_source",
+      "text": "For instance, conditional prediction markets and AI-supported forecasts could make it clearer where the world is heading under different policies, helping settle questions such as \u201cIf this policy is made law, how will the average human wage change three years from now?\u201d Experimentation with AI-supported democratic mechanisms will let us prototype more responsive governance models that will be needed for a faster-changing world.",
+      "paraphrases": [
+        "Leveraging conditional prediction markets and AI-driven forecasts can clarify how different policies might shape the world\u2019s trajectory, resolving questions like \u201cIf this policy is enacted, how will the average human wage change three years from now?\u201d Experimenting with AI-enabled democratic mechanisms lets us prototype more adaptive governance models for a rapidly evolving world.",
+        "Conditional prediction markets combined with AI-supported projections could shed light on future scenarios under various policies, answering \u201cIf this law goes into effect, what will the average human wage be three years later?\u201d Trials of AI-backed democratic systems will help us develop more responsive governance frameworks needed in an accelerating world.",
+        "By using conditional prediction markets and AI-based forecasting, we can make it more transparent where different policies will lead, answering queries such as \u201cIf this policy becomes law, how will the typical human wage evolve three years from now?\u201d Experimenting with AI-facilitated democratic tools allows us to prototype governance models that can better respond to a faster-changing world."
+      ]
+    },
+    {
+      "id": "art_5",
+      "source": "article_source",
+      "text": "This nascent sphere, sometimes called \u201cecosystem alignment\u201d, can draw on economics, history and game theory to help us understand what kinds of futures we can plausibly hope for, and how to aim for them.",
+      "paraphrases": [
+        "This emerging field, often referred to as \u201cecosystem alignment,\u201d can draw on economics, history and game theory to illuminate which futures are plausibly within our grasp and how to pursue them.",
+        "Sometimes known as \u201cecosystem alignment,\u201d this nascent domain leverages economics, history and game theory to clarify the kinds of futures we can realistically hope for and the strategies to achieve them.",
+        "This fledgling discipline, sometimes called \u201cecosystem alignment,\u201d employs economic, historical and game-theoretic insights to help us discern plausible future outcomes and chart paths to reach them."
+      ]
+    },
+    {
+      "id": "art_6",
+      "source": "article_source",
+      "text": "Eventually, you\u2019ll simply ask it: \u201cWhat do you think I should do next?\u201d Whether or not you lose your job, it\u2019ll be clear that your input is optional.",
+      "paraphrases": [
+        "In time, you\u2019ll just ask, \u201cWhat do you think I ought to do next?\u201d and, job loss aside, it will be clear that your input is optional.",
+        "Ultimately, you\u2019ll end up asking, \u201cWhat should I do next?\u201d and, regardless of whether you lose your job, it will be obvious that offering your input is optional.",
+        "Before long, you\u2019ll simply inquire, \u201cWhat do you recommend I do next?\u201d and, lose your job or not, it will be apparent that your participation is optional."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1466 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.Recurrent neural networks, long short-term memory [13] and gated recurrent [7] neural networks in particular, have been firmly established as state of the art approaches in sequence modeling and transduction problems such as language modeling and machine translation [35, 2, 5]."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWe demonstrate that the Transformer adapts effectively to diverse tasks by applying it to English constituency parsing with both abundant and scarce training data, while recurrent neural networks—particularly long short-term memory [13] and gated recurrent [7] architectures—remain the state-of-the-art for sequence modeling and transduction problems such as language modeling and machine translation [35, 2, 5]."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Knowledge: (1) On educational benchmarks such as MMLU, MMLU-Pro, and GPQA, DeepSeek-V3 outperforms all other open-source models, achieving 88.5 on MMLU, 75.9 on MMLU-Pro, and 59.1 on GPQA."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nOn educational benchmarks—MMLU, MMLU-Pro, and GPQA—DeepSeek-V3 outperforms all other open-source models, achieving 88.5 on MMLU, 75.9 on MMLU-Pro, and 59.1 on GPQA."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Self-attention has been used successfully in a variety of tasks including reading comprehension, abstractive summarization, textual entailment and learning task-independent sentence representations [4, 27, 28, 22]."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nSelf-attention has been effectively applied to various tasks such as reading comprehension, abstractive summarization, textual entailment, and learning task-independent sentence representations."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: During the pre-training stage, training DeepSeek-V3 on each trillion tokens requires only 180K H800 GPU hours, i.e., 3.7 days on our cluster with 2048 H800 GPUs."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIn the pre-training phase, processing each trillion tokens with DeepSeek-V3 takes just 180K H800 GPU hours, or about 3.7 days on our cluster of 2048 H800 GPUs."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Low-precision training has emerged as a promising solution for efficient training (Dettmers et al., 2022; Kalamkar et al., 2019; Narang et al., 2017; Peng et al., 2023b), its evolution being closely tied to advancements in hardware capabilities (Luo et al., 2024; Micikevicius et al., 2022; Rouhani et al., 2023a)."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nLow-precision training has become a promising approach for efficient model training (Dettmers et al., 2022; Kalamkar et al., 2019; Narang et al., 2017; Peng et al., 2023b), with its development deeply intertwined with hardware improvements (Luo et al., 2024; Micikevicius et al., 2022; Rouhani et al., 2023a)."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: I am very sensible of the honour of your proposals, but it is impossible for me to do otherwise than decline them.” “I am not now to learn,” replied Mr. Collins, with a formal wave of the hand, “that it is usual with young ladies to reject the addresses of the man whom they secretly mean to accept, when he first applies for their favour; and that sometimes the refusal is repeated a second or even a third time."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\n“I deeply appreciate the honour of your proposal, but I must inevitably decline,” she replied. “I well know,” Mr. Collins answered with a formal wave, “that young ladies often first refuse the man they secretly intend to accept, sometimes even a second or third time.”"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: No one who has ever seen you together can doubt his affection; Miss Bingley, I am sure, cannot: she is not such a simpleton."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nAnyone who has witnessed you together cannot question his affection; I am certain Miss Bingley recognizes it too—she is no simpleton."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Their visit did not continue long after the question and answer above mentioned; and while Mr. Darcy was attending them to their carriage, Miss Bingley was venting her feelings in criticisms on Elizabeth’s person, behaviour, and dress."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nTheir visit didn't last long after the question and answer mentioned above, and while Mr. Darcy escorted them to their carriage, Miss Bingley vented her feelings by criticizing Elizabeth’s appearance, behaviour, and attire."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: But, my dearest Jane, you cannot seriously imagine that, because Miss Bingley tells you her brother greatly admires Miss Darcy, he is in the smallest degree less sensible of _your_ merit than when he took leave of you on Tuesday; or that it will be in her power to persuade him that, instead of being in love with you, he is very much in love with her friend.” “If we thought alike of Miss Bingley,” replied Jane, “your representation of all this might make me quite easy."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nMy beloved Jane, you surely don’t really believe that because Miss Bingley claims her brother admires Miss Darcy, he is in any degree less aware of your worth than when he bade you farewell on Tuesday, or that she could convince him he is in love with her friend instead of you.” Jane replied, “If our regard for Miss Bingley were the same, your portrayal would set my mind entirely at ease."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: You will not think of quitting it in a hurry, I hope, though you have but a short lease.” “Whatever I do is done in a hurry,” replied he; “and therefore if I should resolve to quit Netherfield, I should probably be off in five minutes."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\n\"I hope you won’t feel the need to depart so swiftly, despite your limited lease.\" He replied, \"I rush through everything, and if I decided to leave Netherfield, I’d likely be gone in five minutes.\""
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: He had not a temper to bear the sort of competition in which we stood--the sort of preference which was often given me.” “I had not thought Mr. Darcy so bad as this--though I have never liked him, I had not thought so very ill of him--I had supposed him to be despising his fellow-creatures in general, but did not suspect him of descending to such malicious revenge, such injustice, such inhumanity as this!” After a few minutes’ reflection, however, she continued, “I _do_ remember his boasting one day, at Netherfield, of the implacability of his resentments, of his having an unforgiving temper."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHe lacked the disposition to endure the kind of rivalry we faced or the kind of favour so often shown to me, and although I had never cared for Mr. Darcy, I never believed him capable of such vindictive cruelty, injustice, and inhumanity—only that he generally scorned his fellow creatures—until I recalled his proud boast at Netherfield about the implacability of his resentments and his unforgiving temper."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: He has many friends, and he is at a time of life when friends and engagements are continually increasing.” “If he means to be but little at Netherfield, it would be better for the neighbourhood that he should give up the place entirely, for then we might possibly get a settled family there."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHe enjoys a large circle of friends and is at an age when social ties and obligations continually multiply; if he means to spend only a short time at Netherfield, it would be better for the neighbourhood if he gave up the estate entirely, since then we might have a settled family there."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: But Mr. Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on in any of those pleasures which too often console the unfortunate for their folly or their vice."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHowever, Mr. Bennet was not inclined to seek solace in any of the pleasures that often soothe the unfortunate for their folly or vice, despite the disappointment his own imprudence had caused."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who was actually staying in his Colonel’s family, that I am strongly inclined to hope the best."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nI consider it highly improbable that a young man would conceive such intentions toward a girl who is neither unprotected nor friendless and who is in fact residing with his Colonel’s family; therefore, I am inclined to remain optimistic."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: I was on my way to get roaring drunk from sheer embarrassment when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nJust as I headed off to drown my humiliation in drink, Jordan Baker emerged from the house and paused at the top of the marble steps, leaning slightly back as she surveyed the garden with disdainful curiosity."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: I was so vexed to see him stand up with her; but, however, he did not admire her at all; indeed, nobody can, you know; and he seemed quite struck with Jane as she was going down the dance."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nI was greatly displeased to observe him standing up with her; nevertheless, he had no admiration for her in the least; indeed, nobody possibly could; and he seemed utterly captivated by Jane as she went down the dance."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: The gentleman experienced some change of feeling; he drew back his chair, took a newspaper from the table, and, glancing over it, said, in a colder voice,-- “Are you pleased with Kent?” A short dialogue on the subject of the country ensued, on either side calm and concise--and soon put an end to by the entrance of Charlotte and her sister, just returned from their walk."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nNoticing a shift in his disposition, the gentleman pushed his chair away, lifted a newspaper from the table, and after a cursory glance, asked in a more reserved tone, “Are you satisfied with Kent?” A brief, composed conversation about the county ensued, which was soon interrupted by the appearance of Charlotte and her sister, freshly returned from their walk."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Let the other young ladies have time to exhibit.” Mary, though pretending not to hear, was somewhat disconcerted; and Elizabeth, sorry for her, and sorry for her father’s speech, was afraid her anxiety had done no good."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\n“Allow the other young ladies a chance to display their accomplishments,” he observed, and Mary, though pretending not to hear, felt a flicker of discomfort; Elizabeth, sympathizing with her and troubled by her father’s words, feared her own anxiety had been in vain."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: “Why’s that?” “Daisy’s leaving you.” “Nonsense.” “I am, though,” she said with a visible effort."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\n“How come?” “Daisy’s leaving you.” “That’s ridiculous.” “I really am,” she said, forcing herself to speak."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: For instance, conditional prediction markets and AI-supported forecasts could make it clearer where the world is heading under different policies, helping settle questions such as “If this policy is made law, how will the average human wage change three years from now?” Experimentation with AI-supported democratic mechanisms will let us prototype more responsive governance models that will be needed for a faster-changing world."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nLeveraging conditional prediction markets and AI-driven forecasts can clarify how different policies might shape the world’s trajectory, resolving questions like “If this policy is enacted, how will the average human wage change three years from now?” Experimenting with AI-enabled democratic mechanisms lets us prototype more adaptive governance models for a rapidly evolving world."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: This nascent sphere, sometimes called “ecosystem alignment”, can draw on economics, history and game theory to help us understand what kinds of futures we can plausibly hope for, and how to aim for them."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nThis emerging field, often referred to as “ecosystem alignment,” can draw on economics, history and game theory to illuminate which futures are plausibly within our grasp and how to pursue them."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Eventually, you’ll simply ask it: “What do you think I should do next?” Whether or not you lose your job, it’ll be clear that your input is optional."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIn time, you’ll just ask, “What do you think I ought to do next?” and, job loss aside, it will be clear that your input is optional."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How many tectonic plates exist and which plate is the most active?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow many tectonic plates exist?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is \"Fear and loathing in Las Vegas\" really about?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is really the point/gist/theme of Fear and Loathing in Las Vegas?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How exactly does banning Rs 500 and Rs 1000 notes curb the problem of black money?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow will replacing 1000 notes with 2000 notes going to stop corruption and black money?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I get rid of the fat around my hips?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat exercises can be done so as to reduce fat around hip?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Is Linux any good?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs Linux good?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is chlorophyll and how does it help the plant?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat does chlorophyll do?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What do you think are the best quotes from Game of Thrones and why do you think that?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are some of the most memorable Game of Thrones quotes?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why do people merge unrelated questions on Quora?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy do some people in Quora like to compulsively merge unrelated questions?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some best classified websites?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are the top classified site?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What evidence do we have that God doesn't exist?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs there a solid proof that God doesn't exist?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is the difference between realize and realise? Can it be used interchangeably?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat's the difference between realize and realise? How do you know when to use which one appropriately?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How much does advertising on YouTube cost?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow much does YouTube charge for uploading an ad?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How to make a mapping diagram?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do you make a mapping diagram?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I add unlimited resources in my 8 Ball Pool Hack game?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can I earn 8 ball pool cash?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do you get rid of a big pimple on the face?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do you get rid of big pimples?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Can we time travel?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWill time travel be possible in future?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Can I develop Android apps using C++?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nCan you create mobile apps using C++?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do I email someone on Quora?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can someone send an email to a Quora writer directly?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Is it true that aerodynamically the bumblebee should not be able to fly?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs it true that aerodynamically the bumble bee shouldn't be able to fly or is that a myth?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: So what really does happen when an unstoppable force slams into an immovable object- from a physics perspective?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat happens when an unstoppable force meets an immovable object?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How to hack Wifi?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nAm How to hack and get the password of a wifi?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Who are your favorite YouTubers?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWho is your favorite Youtuber?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What things do Chinese find strange about the west?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat things do Chinese people find strange about the West?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What movie should I watch?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the greatest movie ever made?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: You've got 24 hours to live, how will you spend your last day on Earth?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow would you spend the last 24 hours in your life?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What would have solved the Kashmir issue?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is solution to Kashmir issue?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why don't South Indians use surnames?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy do many south Indians not have surnames?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is a criteria for follow on in test cricket?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is follow on in cricket?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do I get funded for a new app idea?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhere can I get funding for my idea?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is line voltage and phase voltage?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the exact meaning of phase voltage and line voltage?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: I am going to put my immigration case for Canada. Is there any way to get job before landing in Canada?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can I get job offer from Canada?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How does it feel having sex for the first time?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow did you feel when you had sex for the first time?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do you perform a factory restore on a gateway laptop, and how does the procedure differ for other laptop brands?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do you restore a Gateway laptop back to factory settings?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I add pictures on Quora?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do I add pictures to my answers on Quora?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Does swimming increase your height in twenties?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do I increase height at age of 16?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What would be the best performance laptop under ₹70,000?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the best laptop to buy around 70,000 with all specs?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are palk strait and Gulf of Mannar?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the Palk Strait and the Gulf of Mannar?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Have you seen an alien craft?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWho has seen aliens or UFOs?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why is Saltwater Taffy candy imported in Hong Kong?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy is Saltwater taffy candy imported in South Korea?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I lose weight in a month without doing exercise?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can I loose weight naturally without doing exercise?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why there are few memes making fun of Narendra Modi?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are some trolls on Narendra Modi?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Can you please let me know the password of your email-id? I need it for checking some things. INTERVIEW ANSWER TO THIS QUESTION"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nCan you please let me know the password of your email-id? I need it for checking some things."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Which is stronger, a hydrogen bomb or a nuclear bomb?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are the differences between atom, nuclear and hydrogen bombs?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Is Virat Kohli 2016 better than Sachin Tendulkar 1999?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs Virat Kohli (2016) better than Sachin Tendulkar (1999)?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why my Jio sim barcode shown redeemed?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nMy new Jio sim barcode generated says its already redeemed. What should I do?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are the specialities of this new 2000 rs note?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is special about the new 2000₹ note?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is the significance of the Battle of the Somme?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat was the significance of the battle of Somme, and how did this battle compare and contrast to the Battle of Smilevo?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do I hack someone's Instagram account?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs there a way to hack someone's Instagram?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Can an infinite amount of dark or vacuum or gravitational energy be created with expansion?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs vacuum energy the same as dark energy? is it infinite? if it is, how and why?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some of the secrets of success in life?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat do you think are the secrets of success?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can we control anger?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the best way to control your anger?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: If you were chosen to have superpowers what would you have?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhich superpower would you like to have?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What did you once hate but now love?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is something you hated but now love?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What was the reason behind the split of Yugoslavia?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat countries did Yugoslavia split into? Which countries were once part of Yugoslavia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do you deal with it when people gossip behind your back?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do I deal with people who speak mean things behind my back?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Does anyone believe that there is life on other planets?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs there any other life existing except on Earth?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is the meaning of my life?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat do you think is the ultimate meaning of life?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why is Plaster of Paris called so?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy is plaster of Paris called \"plaster of Paris\" and not by any other name like cement concrete?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some tips for publishing a book I’ve written?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the procedure of publishing the book self written?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: At what point did Hitler realise the war against the Allies was lost?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhen did Hitler realize that WW2 was lost?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why is there more than one religion?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy do we have more than one religion?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Should India declare war against Pakistan as they are spreading terrorism in India?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nShould India declare a war against Pakistan now?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I become a travel journalist?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat should I do to be a travel journalist?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do you get rid of cold sores?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the easiest way to get rid of a cold sore?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: I just started my period and it's brown, is this normal?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs a brown discharge during your first period normal?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Is it illegal to sell oregano saying that it is weed?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs it illegal to sell oregano if you tell the buyer that it is weed?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some good ways to join the Indian Armed Forces after my graduation?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nCan a boy join the Indian armed forces after a BSc degree?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What all can I do to secure a job in Google? I am a student pursuing diploma in electrical engineering currently.."
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat all can I do to secure a job in Google? I am a student pursuing diploma in electrical engineering currently."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What have you learned from travelling?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat can we learn from travelling?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are the best online courses available for digital business and marketing management?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are the best digital marketing courses for mid-senior level marketing managers?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I stop masturbating daily?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can one stop masturbating for good?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Which are the best geography books for preparation for the civil services?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the syllabus and reference books for geography in civil services?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Are you fond of Quora?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nDo you like Quora?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How does guys lose their virginity?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow does a guy lose his virginity?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are the best IAS coaching centres in Hyderabad?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhich are the best institutes for Civil Services Coaching in Hyderabad?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Where can I find English/Chinese subtitles for a Korean movie?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhere can I find English subtitles for Korean movies?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do I overcome this anxiety of dying?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can you reduce your fear of dying?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How much deep sleep do I need?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow much sleep should adults have in 24 hours ideally?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What is the closest you have been to death?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the closest call you have ever had with death?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How shall I stop watching porn?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat should be done to avoid watching porn?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How does the HP OfficeJet 4620 Airprint compare to the HP LaserJet Enterprise M604dn?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow does the HP OfficeJet 4620 Airprint compare to the HP DesignJet T730 36-in Printer?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do I become multimillionaire with LIC?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do I become a multimillionaire in LIC as a development officer?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some good places to visit in Kerala on tour?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are the best places to visit in Kerala? What is the best way of transportation there?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I study mechanical engineering properly?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are the study strategies for mechanical engineering?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do I can boost my self confidence?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can I raise my self esteem?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can you rapidly lose weight in 14days?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is the fastest way to lose weight successfully?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Is reservation good in competitive exams?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs there is really a need for reservation in competitive examinations?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How do terrorist organisations get money?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhere do terrorist organisations get money from?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some mind-blowing technologies tools that exist that most people don't know about?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are some mind-blowing technologies things that exist that most people don't know about?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why don't US coding bootcamps help international students get M-1 visa instead of asking them to travel to US on a B-2 Visa?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy don't US coding bootcamps help international students get M-1 visa for their courses?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Where do I find a simple to understand solution on how to lose weight?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can I efficiently lose weight?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Where should I learn maths for competitive programming?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat material would be better for learning mathematics for competitive programming?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What's your New Year's resolution for 2017?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat is your resolution for 2017?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can you improve your intelligence?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow can I improve my intelligence?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How can I speak English more fluently?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nHow do I speak English properly and confidently?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Why do people make the same mistake twice? Even when they had suffered badly the first time?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhy do people make the same mistake twice? Even when they had suffered so badly the first time?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: Is it worth getting the Apple Watch?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs the Apple Watch worth it?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are the best movies you ever watch?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are the best movies of all time?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: What are some crazy facts about Google?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nWhat are some amazing facts about Google/Microsoft?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Paraphrase the following text while preserving its meaning but changing the wording and structure: How would one go about getting a minimum of 1Gbps internet speed?"
+      },
+      {
+        "role": "assistant",
+        "content": "<think>\nLet me analyze this text and find ways to rephrase it while keeping the same meaning.\nI need to use different vocabulary and structure.\n</think>\n\nIs it possible to get 1Gbps internet speed?"
+      }
+    ]
+  }
+]

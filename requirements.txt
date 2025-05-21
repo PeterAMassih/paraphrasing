@@ -1,0 +1,15 @@
+transformers
+bert-score
+nltk
+spacy
+pandas
+tqdm
+numpy
+PyPDF2
+openai
+torch
+sentencepiece
+datasets
+trl
+peft
+tensorboard
