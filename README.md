@@ -87,14 +87,14 @@ pip install -r requirements.txt
 
 ## Results
 
-The DeepSeek-LoRA model achieves:
-Metric               Score      Interpretation
+- The DeepSeek-LoRA model achieves:
+- Metric               Score      Interpretation
 ----------------------------------------------------------------------
-bertscore            0.9521     Excellent Semantic similarity
-bleu_diversity       0.5135     Acceptable Word choice diversity
-edit_distance        0.3439     Acceptable Character-level changes
-syntactic_diversity  0.1472     okay Structural changes
-harmonic_score       0.4684     Acceptable Balance of meaning & diversity
+- bertscore            0.9521     Excellent Semantic similarity
+- bleu_diversity       0.5135     Acceptable Word choice diversity
+- edit_distance        0.3439     Acceptable Character-level changes
+- syntactic_diversity  0.1472     okay Structural changes
+- harmonic_score       0.4684     Acceptable Balance of meaning & diversity
 
 ## Example Paraphrases
 
