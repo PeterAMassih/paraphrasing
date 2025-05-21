@@ -2,6 +2,8 @@
 
 Fine-tuned paraphrasing model using DeepSeek-R1-Distill-Qwen-7B with LoRA adaptation. Outperforms baseline models like BART and T5 in generating high-quality paraphrases that balance semantic preservation with lexical and structural diversity.
 
+Find it at [PeterAM4/deepseek-paraphrase](https://github.com/PeterAM4/deepseek-paraphrase)
+
 ## Features
 
 - Parameter-Efficient Fine-Tuning (PEFT) with LoRA
